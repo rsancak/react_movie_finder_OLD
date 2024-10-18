@@ -1,0 +1,22 @@
+.fa-classic,
+.fa-regular,
+.fa-solid,
+.far,
+.fas {
+  font-family: "Font Awesome 6 Free" !important;
+}
+
+.list-unstyled {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 13px;
+  justify-content: space-between;
+}
+
+.list-unstyled li {
+  width: 15%;
+}
+
+a img {
+  width: 100%;
+}
